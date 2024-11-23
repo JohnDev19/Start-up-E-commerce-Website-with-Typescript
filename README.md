@@ -63,7 +63,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser and voilà
 │   └── page.tsx      # Home page
 ├── lib/
 │   └── api.ts        # API utility functions
-└── public/           # Static files
+└── public/           # Static files (for future implementation)
 ```
 
 ## 🎯 Future Improvements
